@@ -5,6 +5,7 @@ Configuration files for a customized Jupyter notebook feature set. Features incl
 3. Automatic saves
 4. CSS styling
 5. Password and token protection (inside jupyter_notebook_config.py)
+<img src="config.png">
 
 ## Getting started
 1. Create a virtual environment
