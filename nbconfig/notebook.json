@@ -1,0 +1,30 @@
+{
+  "load_extensions": {
+    "code_font_size/code_font_size": false,
+    "dragdrop/main": true,
+    "spellchecker/main": true,
+    "codefolding/main": true,
+    "collapsible_headings/main": false,
+    "toggle_all_line_numbers/main": true,
+    "autosavetime/main": true,
+    "toc2/main": true,
+    "ruler/main": true,
+    "jupyter-js-widgets/extension": true,
+    "nbextensions_configurator/config_menu/main": true
+  },
+  "toc2": {
+    "threshold": "5"
+  },
+  "autosavetime_starting_interval": "1",
+  "stored_keymap": "sublime",
+  "Cell": {
+    "cm_config": {
+      "lineNumbers": true
+    }
+  },
+  "spellchecker": {
+    "add_toolbar_button": false
+  },
+  "autosavetime_show_selector": false,
+  "autosavetime_set_starting_interval": true
+}

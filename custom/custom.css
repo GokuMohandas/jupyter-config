@@ -1,0 +1,15 @@
+.container {
+    width:833px !important;
+    margin: 0 auto !important;
+    padding: 10px !important;
+}
+
+div#menubar-container {
+    width:1000px !important;
+    padding: 10px !important;
+}
+
+div#maintoolbar-container{
+    width:1200px !important;
+    padding: 10px !important;
+}
